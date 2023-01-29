@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Satria Dwi Bagaskara 👋
+* 🌱 I'm an aspiring in Data Scientist/Analyst using Python
+* 📫 How to reach me [email: satriadwib@gmail.com], [LinkedIn: https://www.linkedin.com/in/satria-dwi-bagaskara-0695231bb1/]
 
 <!--
 **satriadwibagaskara/satriadwibagaskara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
